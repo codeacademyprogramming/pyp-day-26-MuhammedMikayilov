@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "roomId": "1",
+    "reservedBy": "Muhammed Mikayilov",
+    "from": "21.06.2021",
+    "to": "22.06.2021",
+    "notes": "Test"
+  },
+  {
+    "id": "3",
+    "roomId": "1",
+    "reservedBy": "Muhammed Mikayilov",
+    "from": "21.06.2021",
+    "to": "22.06.2021",
+    "notes": "Test"
+  }
+]
